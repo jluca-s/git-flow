@@ -1,3 +1,4 @@
 public class java {
-    private int id;
+    private Long id;
+
 }
